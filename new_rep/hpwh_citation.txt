@@ -1,0 +1,12 @@
+
+@article{osti_1050127,
+title = {Low-Cost Solar Water Heating Research and Development Roadmap},
+author = {Hudon, Kate and Merrigan, Tim and Burch, Jay and Maguire, Jeff},
+doi = {https://dx.doi.org/10.2172/1050127},
+url = {https://www.osti.gov/biblio/1050127}, journal = {},
+number = ,
+volume = ,
+place = {United States},
+year = {2012},
+month = {8}
+}
